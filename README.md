@@ -1,7 +1,7 @@
 # Image-Edge-Detection
 
 [Dense Extreme Inception Network: Towards a Robust CNN Model for Edge Detection](https://arxiv.org/pdf/1909.01955.pdf) 
-[Bi-Directional Cascade Network for Perceptual Edge Detection](https://arxiv.org/pdf/1902.10903.pdf)  [[code]](https://github.com/pkuCactus/BDCN)
+[Bi-Directional Cascade Network for Perceptual Edge Detection](https://arxiv.org/pdf/1902.10903.pdf) 
 
 [Object Contour and Edge Detection with RefineContourNet](https://link.springer.com/chapter/10.1007%2F978-3-030-29888-3_20) 
 
