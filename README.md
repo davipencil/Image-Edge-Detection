@@ -46,3 +46,5 @@
 [Coherent Line Drawing](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.108.559&rep=rep1&type=pdf)  
 
 [A Computational Approach to Edge Detection](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.420.3300&rep=rep1&type=pdf)  
+
+[Holistically-Nested Edge Detection](https://arxiv.org/pdf/1504.06375.pdf)
